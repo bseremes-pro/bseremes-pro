@@ -7639,5 +7639,23 @@ section.custom-timeline .timeline-box.right:after {
 }
 
 .bg-bs-color-5 {
-  background-color: #36827f;
+  background-color: #36827f !important;
+}
+
+#header.header-floating-icons .header-nav-main nav > ul > li > a.active:after {
+  background: #e88873;
+}
+
+#header.header-floating-icons .header-nav-main nav > ul > li > a.active {
+  background: #e88873 !important;
+}
+
+@media (max-width: 991px) {
+  #header.header-floating-icons .header-nav-main nav > ul > li > a {
+    font-size: 1.7em;
+    margin: 0;
+    padding: 15px;
+    color: #1e1e1e !important;
+    border-bottom-color: transparent;
+  }
 }
