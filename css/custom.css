@@ -52,3 +52,7 @@ html
 #header .header-nav.header-nav-links nav > ul li:hover > a {
   color: #deb841 !important;
 }
+
+.bs-get-in-touch {
+  background-image: url('./../img/bs-couverture-contact.jpg');
+}
