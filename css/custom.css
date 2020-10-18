@@ -56,3 +56,7 @@ html
 .bs-get-in-touch {
   background-image: url('./../img/bs-couverture-contact.jpg');
 }
+
+.page-header.page-header-modern.page-header-background .breadcrumb:before {
+  display: none;
+}
