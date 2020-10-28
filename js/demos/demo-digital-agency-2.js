@@ -13,7 +13,7 @@ Theme Version:	8.0.0
         sliderLayout: 'auto',
 		delay: 9000,
         responsiveLevels: [4096,1200,992,768],
-        gridwidth: [1220,920,680,500],
+        gridwidth: [1220,920,680,620],
 		gridheight: 991,
         disableProgressBar: 'on',
         spinner: 'spinner3',
