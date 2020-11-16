@@ -23,6 +23,10 @@
   background-color: #36827f !important;
 }
 
+.text-bs-color-5 {
+  color: #36827f !important;
+}
+
 #header.header-floating-icons .header-nav-main nav > ul > li > a.active:after {
   background: #e88873;
 }
