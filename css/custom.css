@@ -64,3 +64,22 @@ html
 .page-header.page-header-modern.page-header-background .breadcrumb:before {
   display: none;
 }
+
+.skill-card {
+  padding: 35px 0 35px 35px;
+  text-align: left;
+}
+.skill-card:before {
+  content: '';
+  display: inline-block;
+  vertical-align: middle;
+  width: 30px;
+  height: 3px;
+  margin-right: 10px;
+  transition: 0.5s width;
+  background-color: #deb841 !important;
+}
+.skill-card:hover:before {
+  width: 45px;
+  background-color: #fcf8ee !important;
+}
