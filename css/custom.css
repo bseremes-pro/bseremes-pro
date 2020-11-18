@@ -83,3 +83,7 @@ html
   width: 45px;
   background-color: #fcf8ee !important;
 }
+
+.side-menu-our-work .sort-source li a:before {
+  background-color: #e88873;
+}
